@@ -1,7 +1,7 @@
 {
-    "name": "cogpowered/finediff",
+    "name": "pableu/finediff",
     "description": "PHP implementation of a Fine granularity Diff engine",
-    "homepage": "https://github.com/cogpowered/FineDiff",
+    "homepage": "https://github.com/pableu/FineDiff",
     "license": "MIT",
     "keywords": ["finediff", "diff", "text", "string", "opcode"],
     "authors": [
